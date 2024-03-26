@@ -38,7 +38,7 @@ To use the Flood Risk Calculator, follow these steps:
 2. Run the `main.py` script:
 
     ```
-    python main.py
+    python ./src/main.py
     ```
 
 3. Follow the on-screen prompts to enter the postcode, percentage of inundated area.
